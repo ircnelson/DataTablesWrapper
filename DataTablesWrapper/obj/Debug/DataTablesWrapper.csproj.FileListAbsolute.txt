@@ -1,0 +1,5 @@
+c:\users\nelson\documents\visual studio 11\Projects\DataTablesWrapper\DataTablesWrapper\obj\Debug\DataTablesWrapper.csprojResolveAssemblyReference.cache
+c:\users\nelson\documents\visual studio 11\Projects\DataTablesWrapper\DataTablesWrapper\bin\Debug\DataTablesWrapper.dll
+c:\users\nelson\documents\visual studio 11\Projects\DataTablesWrapper\DataTablesWrapper\bin\Debug\DataTablesWrapper.pdb
+c:\users\nelson\documents\visual studio 11\Projects\DataTablesWrapper\DataTablesWrapper\obj\Debug\DataTablesWrapper.dll
+c:\users\nelson\documents\visual studio 11\Projects\DataTablesWrapper\DataTablesWrapper\obj\Debug\DataTablesWrapper.pdb
