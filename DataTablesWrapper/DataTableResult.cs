@@ -24,6 +24,6 @@ namespace DataTablesWrapper
         public string sColumns { get; set; }
 
         [DataMember(Name = "sEcho")]
-        public int sEcho { get; private set; }
+        public int sEcho { get; set; }
     }
 }

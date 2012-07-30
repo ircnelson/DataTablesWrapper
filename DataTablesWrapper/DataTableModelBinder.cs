@@ -29,7 +29,7 @@ namespace DataTablesWrapper
             {
                 obj.mDataProps.Add(request["mDataProp_" + i]);
                 obj.bSortables.Add(Convert.ToBoolean(request["bSortable_" + i]));
-                obj.bSearchables.Add(Convert.ToBoolean(request["bSearchables_" + i]));
+                obj.bSearchables.Add(Convert.ToBoolean(request["bSearchable_" + i]));
                 obj.sSearchs.Add(request["bSearch_" + i]);
                 obj.bEscapeRegexs.Add(Convert.ToBoolean(request["bEscapeRegex_" + i]));
                 obj.iSortCols.Add(Convert.ToInt32(request["iSortCol_" + i]));
