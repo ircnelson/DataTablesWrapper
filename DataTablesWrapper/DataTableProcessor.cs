@@ -37,18 +37,12 @@ namespace DataTablesWrapper
                 queryable = queryable.Where(string.Join(" or ", searchColumns), parameters);
             }
 
-
-            Console.WriteLine(queryable);
-
-            //if (!String.IsNullOrEmpty(param.sSearch))
-            //    resultado = collection.Where(e => e.Nome.ToLower().Contains(param.sSearch.ToLower()));
-
             var displayed = queryable
                 .Skip(param.iDisplayStart)
                 .Take(param.iDisplayLength);
 
             result = new DataTableResult();
-            result.aaData = queryable;
+            result.aaData = displayed;
             result.iTotalRecords = collection.Count();
             result.iTotalDisplayRecords = queryable.Count();
         }

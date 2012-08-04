@@ -1,0 +1,4 @@
+D:\Workspace\Git\DataTablesWrapper\DataTablesWrapper\bin\Release\DataTablesWrapper.dll
+D:\Workspace\Git\DataTablesWrapper\DataTablesWrapper\bin\Release\DataTablesWrapper.pdb
+D:\Workspace\Git\DataTablesWrapper\DataTablesWrapper\obj\Release\DataTablesWrapper.dll
+D:\Workspace\Git\DataTablesWrapper\DataTablesWrapper\obj\Release\DataTablesWrapper.pdb
